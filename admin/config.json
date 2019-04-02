@@ -1,7 +1,7 @@
 {
     "installer": {
         "username": "admin",
-        "password": ""
+        "password": "admin01"
     },
     "settings": {
         "name": "devShort shortlink service",
